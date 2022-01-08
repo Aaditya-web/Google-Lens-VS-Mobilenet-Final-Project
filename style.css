@@ -1,0 +1,93 @@
+.p1
+{
+    text-align: center;
+    color: red;
+}
+
+.p2
+{
+    text-align: center;
+    color: blue;
+
+}
+
+.heading0
+{
+    color:red;
+    font: times;
+    font-size:40px;
+
+
+}
+
+.container{
+    white-space: pre-line;
+}
+body {
+    background: green;
+}
+
+.heading {
+    width:80%;
+    font-size:22px
+}
+.mobilenetlist1{
+    position:absolute;
+    top: 600px;
+}
+.azurelist2{
+    position:absolute;
+    top: 600px;
+    right:100px;
+    width:400px;
+    white-space: pre-line;
+    height:2700px;
+
+}
+.mobilenetlist1{
+  width:400px;
+  white-space: pre-line;
+  height:2700px;
+
+
+
+}
+
+.names_of_objects, #result_object_name, #result_object_accuracy{
+    color: orange;
+}
+
+#camera {
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.heading{
+    font-size:40px;
+    width:400px;
+    white-space: pre-line;
+}
+
+.heading2{
+    left:1000px;
+    font-size:23px;
+    width:500px;
+    white-space: pre-line;
+    top:90px;
+    height:2700px;
+}
+.Image{
+    width:200px;
+    box-shadow: 8px 5px 7px yellow;
+}
+
+.results{
+    text-align:center;
+    white-space: pre-line;
+}
+
+.winner{
+    font-size:50px;
+    color:orange;
+}
